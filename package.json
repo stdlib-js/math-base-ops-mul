@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-ops-mul",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Multiply two double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
