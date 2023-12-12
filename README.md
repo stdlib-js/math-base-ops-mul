@@ -227,6 +227,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/math-base/ops/add`][@stdlib/math/base/ops/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two double-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/div`][@stdlib/math/base/ops/div]</span><span class="delimiter">: </span><span class="description">divide two double-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math-base/ops/sub`][@stdlib/math/base/ops/sub]</span><span class="delimiter">: </span><span class="description">subtract two double-precision floating-point numbers.</span>
 
 </section>
@@ -305,6 +306,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/math/base/ops/add]: https://github.com/stdlib-js/math-base-ops-add
+
+[@stdlib/math/base/ops/div]: https://github.com/stdlib-js/math-base-ops-div
 
 [@stdlib/math/base/ops/sub]: https://github.com/stdlib-js/math-base-ops-sub
 
